@@ -1,0 +1,1 @@
+The Weapon detector yolo model yolov3_custom_12000.weights is stored on google drive.
